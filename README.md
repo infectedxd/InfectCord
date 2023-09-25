@@ -19,8 +19,8 @@
 - [@zaddyinfected](https://www.github.com/zaddyinfected)
 
 
-## SellApp
-- [InfectCord SellApp](https://infected.store/infectcord)
+## Sellpass
+- [InfectCord Sellpass](https://infected.store/infectcord)
 
 ![Help](https://cdn.discordapp.com/attachments/1146300055498784819/1146303735765676073/image.png)
 
