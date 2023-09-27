@@ -7,3 +7,7 @@
 
 - Implemented a license system and encrypted the code for enhanced security
 - Added AFK cmnds
+
+**InfectCord Patch Notes - Version 2.x**
+- Upgraded `AFK`, `Mute`,`Spam` cmds
+- Added 2 Wizz Cmds ( `Spam Channels`, `DM Cleaner` )
