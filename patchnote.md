@@ -10,4 +10,4 @@
 
 **InfectCord Patch Notes - Version 2.x**
 - Upgraded `AFK`, `Mute`,`Spam` cmds
-- Added 2 Wizz Cmds ( `Spam Channels`, `DM Cleaner` )
+- Added 2 Wizz Cmds ( `Spam Channels` , `DM Cleaner` )
