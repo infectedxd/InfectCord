@@ -1,18 +1,20 @@
 
 # InfectCord Selfbot
 
-- InfectCord v2 is premium selfbot with over 90+ cmds
+- InfectCord v2 is premium selfbot with over 100+ cmds
 
 
 ## Features
 
 - AFK Cmds
+- Nitro Sniper
+- Vanity Checker
 - Nuking Cmds
 - NSFW Cmds
 - Crypto Balance Checker and Current Price
 - Automessage 
 - Globally Log Deleted Msges From All Servers through webhooks
-- and tons of 90+ cmds
+- and tons of 100+ cmds
 
 ## Devs
 
