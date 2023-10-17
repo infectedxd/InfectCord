@@ -10,4 +10,11 @@
 
 **InfectCord Patch Notes - Version 2.x**
 - Upgraded `AFK`, `Mute`,`Spam` cmds
-- Added 2 Wizz Cmds ( `Spam Channels` , `DM Cleaner` )
+- Added 2 Wizz Cmds ( Spam Channels, DM Cleaner )
+
+**Infectcord Patch Notes - Version 2.x**
+
+- Added `Nitro sniper` with webhook notify
+- Snipe `deleted msges`
+- ARs `trigger deletion` on cmd execution
+- Server `Vanity` checker is added now
