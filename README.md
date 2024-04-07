@@ -18,7 +18,7 @@
 
 ## Devs
 
-- [@zaddyinfected](https://www.github.com/zaddyinfected)
+- [@infectedxd](https://www.github.com/infectedxd)
 
 
 ## Sellpass
